@@ -9,7 +9,7 @@ After that, I am introduced to Python and machine learning, where I learn how to
 
 Projects I covered on Machine Learning:
 
-Weather Prediction
+Weather Prediction -> https://github.com/danieltanyi/Weather-Prediction
 
 Wine Quality Prediction
 
