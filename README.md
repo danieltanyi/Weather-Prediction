@@ -10,8 +10,12 @@ After that, I am introduced to Python and machine learning, where I learn how to
 Projects I covered on Machine Learning:
 
 Weather Prediction
+
 Wine Quality Prediction
+
 Predicting Stock Prices
+
 Predicting Cancer Malignant or Benign
+
 Marketing Data Analysis
 
