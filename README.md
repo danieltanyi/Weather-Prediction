@@ -5,3 +5,13 @@ Data analysis course covers a range of topics, including advanced Excel, SQL, Py
 
 
 After that, I am introduced to Python and machine learning, where I learn how to use Python for data analysis, build and evaluate predictive models, and work with algorithms such as linear regression and decision trees. 
+
+
+Projects I covered on Machine Learning:
+
+Weather Prediction
+Wine Quality Prediction
+Predicting Stock Prices
+Predicting Cancer Malignant or Benign
+Marketing Data Analysis
+
