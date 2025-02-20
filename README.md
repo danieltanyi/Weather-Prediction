@@ -15,7 +15,7 @@ Wine Quality Prediction -> https://github.com/danieltanyi/wine-quality-predictio
 
 Predicting Stock Prices -> https://github.com/danieltanyi/stock-prices-prediction
 
-Predicting Cancer Malignant or Benign
+Predicting Cancer Malignant or Benign -> https://github.com/danieltanyi/predicting-cancer-m-or-b
 
 Marketing Data Analysis
 
