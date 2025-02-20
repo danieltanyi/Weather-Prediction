@@ -11,7 +11,7 @@ Projects I covered on Machine Learning:
 
 Weather Prediction -> https://github.com/danieltanyi/Weather-Prediction
 
-Wine Quality Prediction
+Wine Quality Prediction -> https://github.com/danieltanyi/wine-quality-prediction
 
 Predicting Stock Prices
 
