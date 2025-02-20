@@ -13,7 +13,7 @@ Weather Prediction -> https://github.com/danieltanyi/Weather-Prediction
 
 Wine Quality Prediction -> https://github.com/danieltanyi/wine-quality-prediction
 
-Predicting Stock Prices
+Predicting Stock Prices -> https://github.com/danieltanyi/stock-prices-prediction
 
 Predicting Cancer Malignant or Benign
 
