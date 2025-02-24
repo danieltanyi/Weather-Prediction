@@ -17,5 +17,5 @@ Predicting Stock Prices -> https://github.com/danieltanyi/stock-prices-predictio
 
 Predicting Cancer Malignant or Benign -> https://github.com/danieltanyi/predicting-cancer-m-or-b
 
-Marketing Data Analysis
+Marketing Data Analysis -> https://github.com/danieltanyi/marketing-analysis
 
